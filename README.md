@@ -1,0 +1,1 @@
+This is a RAG Assistant especially for Embedded Systems.
